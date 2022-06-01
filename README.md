@@ -1,3 +1,5 @@
+## Description of the task
+Description can be found in APIChallenge.pdf
 
 ## Implemented extra mile bonus points and more:
 
